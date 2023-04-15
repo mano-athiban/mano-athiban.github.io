@@ -1,0 +1,394 @@
+{
+  "gw": [
+    {
+      "key": 0,
+      "displayText": "She is blessed with ever smiling and divine looking smart girl",
+      "answer": "Mama",
+      "answers": [
+        { "key": 2, "displayText": "Mama", "isAnswer": true },
+        { "key": 0, "displayText": "Athan", "isAnswer": false },
+        { "key": 1, "displayText": "Kavi", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Mama, Athan, Kavi"
+    },
+    {
+      "key": 1,
+      "displayText": "Bold & திறமைசாலி",
+      "answer": "Athai",
+      "answers": [
+        { "key": 2, "displayText": "Athai", "isAnswer": true },
+        { "key": 0, "displayText": "Amma", "isAnswer": false },
+        { "key": 1, "displayText": "Jeyanthi Amma", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Athai, Amma, Jeyanthi Amma"
+    },
+    {
+      "key": 2,
+      "displayText": "பிடிவாதக்காரி & settakaari",
+      "answer": "Ramesh Appa",
+      "answers": [
+        { "key": 2, "displayText": "Ramesh Appa", "isAnswer": true },
+        { "key": 0, "displayText": "Jeyanthi Amma", "isAnswer": false },
+        { "key": 1, "displayText": "Harini", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Ramesh Appa, Jeyanthi Amma, Harini"
+    },
+    {
+      "key": 3,
+      "displayText": "Simple",
+      "answer": "Jeyanthi Amma",
+      "answers": [
+        { "key": 2, "displayText": "Jeyanthi Amma", "isAnswer": true },
+        { "key": 0, "displayText": "Amma", "isAnswer": false },
+        { "key": 1, "displayText": "Kavi", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Jeyanthi Amma, Amma, Kavi"
+    },
+    {
+      "key": 4,
+      "displayText": "மண்ணுஉருண்டை",
+      "answer": "Santo",
+      "answers": [
+        { "key": 2, "displayText": "Santo", "isAnswer": true },
+        { "key": 0, "displayText": "Sabha", "isAnswer": false },
+        { "key": 1, "displayText": "Harini", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Santo, Sabha, Harini"
+    },
+    {
+      "key": 5,
+      "displayText": "She's my everything",
+      "answer": "Harini",
+      "answers": [
+        { "key": 2, "displayText": "Harini", "isAnswer": true },
+        { "key": 0, "displayText": "Sabha", "isAnswer": false },
+        { "key": 1, "displayText": "Santo", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Harini, Sabha, Santo"
+    },
+    {
+      "key": 6,
+      "displayText": "2nd gear driver",
+      "answer": "Sabha",
+      "answers": [
+        { "key": 2, "displayText": "Sabha", "isAnswer": true },
+        { "key": 0, "displayText": "Athan", "isAnswer": false },
+        { "key": 1, "displayText": "Santo", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Sabha, Athan, Santo"
+    },
+    {
+      "key": 7,
+      "displayText": "Most dedicated, talented, dynamic with an extra pinch of Goofiness 😜🤗",
+      "answer": "Athan",
+      "answers": [
+        { "key": 2, "displayText": "Athan", "isAnswer": true },
+        { "key": 0, "displayText": "Mama", "isAnswer": false },
+        { "key": 1, "displayText": "Kavi", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Athan, Mama, Kavi"
+    },
+    {
+      "key": 8,
+      "displayText": "Good Dancer like me.",
+      "answer": "Kavi",
+      "answers": [
+        { "key": 2, "displayText": "Kavi", "isAnswer": true },
+        { "key": 0, "displayText": "Harini", "isAnswer": false },
+        { "key": 1, "displayText": "Santo", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Kavi, Harini, Santo"
+    },
+    {
+      "key": 9,
+      "displayText": "வேலைன்னு வந்துட்டா வெள்ளக்காரி",
+      "answer": "Amma",
+      "answers": [
+        { "key": 2, "displayText": "Amma", "isAnswer": true },
+        { "key": 0, "displayText": "Kavi", "isAnswer": false },
+        { "key": 1, "displayText": "Appa", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Amma, Kavi, Appa"
+    },
+    {
+      "key": 10,
+      "displayText": "perfect grl",
+      "answer": "Appa",
+      "answers": [
+        { "key": 2, "displayText": "Appa", "isAnswer": true },
+        { "key": 0, "displayText": "Athan", "isAnswer": false },
+        { "key": 1, "displayText": "Mama", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Appa, Athan, Mama"
+    },
+    {
+      "key": 11,
+      "displayText": "sara vedi maadhri pesuva(bullet train)",
+      "answer": "Vicky tuty",
+      "answers": [
+        { "key": 2, "displayText": "Vicky tuty", "isAnswer": true },
+        { "key": 0, "displayText": "Yoga", "isAnswer": false },
+        { "key": 1, "displayText": "Amritha", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Vicky tuty, Yoga, Amritha"
+    },
+    {
+      "key": 12,
+      "displayText": "thanga meenakshi",
+      "answer": "Anand",
+      "answers": [
+        { "key": 2, "displayText": "Anand", "isAnswer": true },
+        { "key": 0, "displayText": "Santo", "isAnswer": false },
+        { "key": 1, "displayText": "Sabha", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Anand, Santo, Sabha"
+    },
+    {
+      "key": 13,
+      "displayText": "childish looks like priyanga deshpande",
+      "answer": "Yoga",
+      "answers": [
+        { "key": 2, "displayText": "Yoga", "isAnswer": true },
+        { "key": 0, "displayText": "Amritha", "isAnswer": false },
+        { "key": 1, "displayText": "Vicky tuty", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Yoga, Amritha, Vicky tuty"
+    },
+    {
+      "key": 14,
+      "displayText": "ne oru kucha",
+      "answer": "Amritha",
+      "answers": [
+        { "key": 2, "displayText": "Amritha", "isAnswer": true },
+        { "key": 0, "displayText": "Yoga", "isAnswer": false },
+        { "key": 1, "displayText": "Vicky tuty", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Amritha, Yoga, Vicky tuty"
+    },
+    {
+      "key": 15,
+      "displayText": "caring,easily mingle",
+      "answer": "Keerthu",
+      "answers": [
+        { "key": 2, "displayText": "Keerthu", "isAnswer": true },
+        { "key": 0, "displayText": "Varshini", "isAnswer": false },
+        { "key": 1, "displayText": "Vicky tuty", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Keerthu, Varshini, Vicky tuty"
+    },
+    {
+      "key": 16,
+      "displayText": "Paasakaara vaayadi ❤️",
+      "answer": "Varshini",
+      "answers": [
+        { "key": 2, "displayText": "Varshini", "isAnswer": true },
+        { "key": 0, "displayText": "Keerthu", "isAnswer": false },
+        { "key": 1, "displayText": "Anand", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Varshini, Keerthu, Anand"
+    },
+    {
+      "key": 17,
+      "displayText": "she s my greatest blessing❤️",
+      "answer": "Gaju",
+      "answers": [
+        { "key": 2, "displayText": "Gaju", "isAnswer": true },
+        { "key": 0, "displayText": "Haritha", "isAnswer": false },
+        { "key": 1, "displayText": "Nisga", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Gaju, Haritha, Nisga"
+    },
+    {
+      "key": 18,
+      "displayText": "Happy Birthday Akka😇❤️ ,a good soul with lot of creativity, I hope you’ve had a great year and I wish you many more. Waiting for your version of Arabic kuthu ,soon will do one dance reels...😎🤟🏻",
+      "answer": "Pandi",
+      "answers": [
+        { "key": 2, "displayText": "Pandi", "isAnswer": true },
+        { "key": 0, "displayText": "Nidhi", "isAnswer": false },
+        { "key": 1, "displayText": "Krithika", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Pandi, Nidhi, Krithika"
+    },
+    {
+      "key": 19,
+      "displayText": "Mano is my world, en uyir ulagam elame ne dhan. Una pathi dhan nenachtruken epome.. 😂😂",
+      "answer": "Haritha",
+      "answers": [
+        { "key": 2, "displayText": "Haritha", "isAnswer": true },
+        { "key": 0, "displayText": "Priya", "isAnswer": false },
+        { "key": 1, "displayText": "Taanya", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Haritha, Priya, Taanya"
+    },
+    {
+      "key": 20,
+      "displayText": "Hi future husband. Today is sweetie’s birthday. We have  shared many funny and happy moments in a short duration and I love her so much.",
+      "answer": "Deeksha",
+      "answers": [
+        { "key": 2, "displayText": "Deeksha", "isAnswer": true },
+        { "key": 0, "displayText": "Priya", "isAnswer": false },
+        { "key": 1, "displayText": "Nisga", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Deeksha, Priya, Nisga"
+    },
+    {
+      "key": 21,
+      "displayText": "My sweetie is the best 💖",
+      "answer": "Priya",
+      "answers": [
+        { "key": 2, "displayText": "Priya", "isAnswer": true },
+        { "key": 0, "displayText": "Taanya", "isAnswer": false },
+        { "key": 1, "displayText": "Haritha", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Priya, Taanya, Haritha"
+    },
+    {
+      "key": 22,
+      "displayText": "Hyy sweetie 😍. Epdi irukka? Cheers to all the gsfs memories 🥂❤️. Missing u.... Get married soon 😜",
+      "answer": "Nisga",
+      "answers": [
+        { "key": 2, "displayText": "Nisga", "isAnswer": true },
+        { "key": 0, "displayText": "Priya", "isAnswer": false },
+        { "key": 1, "displayText": "Deeksha", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Nisga, Priya, Deeksha"
+    },
+    {
+      "key": 23,
+      "displayText": "The multitalented & most dedicated person with a sweet soul and genuine heart who fortunately crossed my life and become one of my go to person in a very short time❤️‍🔥",
+      "answer": "Kattalagan",
+      "answers": [
+        { "key": 2, "displayText": "Kattalagan", "isAnswer": true },
+        { "key": 0, "displayText": "Mohan", "isAnswer": false },
+        { "key": 1, "displayText": "Pandi", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Kattalagan, Mohan, Pandi"
+    },
+    {
+      "key": 24,
+      "displayText": "Mannuuu baabbiieee - the most sweeetest super energetic besst friend anyone could get!! 😅🥰❤️",
+      "answer": "Taanya",
+      "answers": [
+        { "key": 2, "displayText": "Taanya", "isAnswer": true },
+        { "key": 0, "displayText": "Nisga", "isAnswer": false },
+        { "key": 1, "displayText": "Haritha", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Taanya, Nisga, Haritha"
+    },
+    {
+      "key": 25,
+      "displayText": "Puttinaroju subhakankshalu mano garu",
+      "answer": "Mohan",
+      "answers": [
+        { "key": 2, "displayText": "Mohan", "isAnswer": true },
+        { "key": 0, "displayText": "Kattalagan", "isAnswer": false },
+        { "key": 1, "displayText": "Pandi", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Mohan, Kattalagan, Pandi"
+    },
+    {
+      "key": 26,
+      "displayText": "Happiest birthday to my precious ❤️.You are an inspiration manoka",
+      "answer": "Nidhi",
+      "answers": [
+        { "key": 2, "displayText": "Nidhi", "isAnswer": true },
+        { "key": 0, "displayText": "Pandi", "isAnswer": false },
+        { "key": 1, "displayText": "Krithika", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Nidhi, Pandi, Krithika"
+    },
+    {
+      "key": 27,
+      "displayText": "Wishing yuuu a very very happy birthdayyyy prettiesttt❣️🤩the one person whom I saw frst wen i entered the clg and one bond cherish for my life...😝😅Onlyyyy thing which is very pretty about u is yur innocence dontt lose it😇❣️🥳 Again have a happyyy and succesful year to the best sisy 🥰😘💙",
+      "answer": "Krithika",
+      "answers": [
+        { "key": 2, "displayText": "Krithika", "isAnswer": true },
+        { "key": 0, "displayText": "Pandi", "isAnswer": false },
+        { "key": 1, "displayText": "Nidhi", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Krithika, Pandi, Nidhi"
+    },
+    {
+      "key": 28,
+      "displayText": "My zero story teller",
+      "answer": "Aishu",
+      "answers": [
+        { "key": 2, "displayText": "Aishu", "isAnswer": true },
+        { "key": 0, "displayText": "Rash", "isAnswer": false },
+        { "key": 1, "displayText": "Yoga", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Krithika, Pandi, Nidhi"
+    },
+    {
+      "key": 29,
+      "displayText": "😍🥰 Mano, my sissy you're simply stylish,artistic nd such a luvly kind hearted girl🥰😍",
+      "answer": "Rash",
+      "answers": [
+        { "key": 2, "displayText": "Rash", "isAnswer": true },
+        { "key": 0, "displayText": "Tuty Vicky", "isAnswer": false },
+        { "key": 1, "displayText": "Aishu", "isAnswer": false }
+      ],
+      "image": null,
+      "hint": null,
+      "randomIn": "Krithika, Pandi, Nidhi"
+    }
+  ]
+}
