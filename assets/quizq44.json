@@ -1,0 +1,441 @@
+{
+  "tk": [
+    {
+      "key": 0,
+      "displayText": "Who was Tharun's favourite school teacher?",
+      "answers": [
+        { "key": 0, "displayText": "Gulzar", "isAnswer": true },
+        { "key": 1, "displayText": "Sudha Sridharan", "isAnswer": false },
+        { "key": 2, "displayText": "Krishnaveni", "isAnswer": false },
+        { "key": 3, "displayText": "Sathyabama", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 1,
+      "displayText": "Which maths chapter you taught the most for Mahesh during school?",
+      "answers": [
+        {
+          "key": 0,
+          "displayText": "Arithmetic Progressions",
+          "isAnswer": false
+        },
+        { "key": 1, "displayText": "Coordinate Geometry", "isAnswer": false },
+        { "key": 2, "displayText": "Trigonometry", "isAnswer": true },
+        { "key": 3, "displayText": "Quadratic Equations", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 2,
+      "displayText": "Which place were you driving with Mukunth during the ‘let me sing a kutty story’ song playing behind?",
+      "answers": [
+        { "key": 0, "displayText": "Syracuse, NY", "isAnswer": true },
+        { "key": 1, "displayText": "Philadelphia, PA", "isAnswer": false },
+        { "key": 2, "displayText": "Weehawken, NJ", "isAnswer": false },
+        { "key": 3, "displayText": "New York, NY", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 3,
+      "displayText": "During 7th class, which was the most liked english song for Lokesh?",
+      "answers": [
+        { "key": 0, "displayText": "Smack That", "isAnswer": false },
+        { "key": 1, "displayText": "One love", "isAnswer": false },
+        { "key": 2, "displayText": "50 cent in da club", "isAnswer": true }
+      ]
+    },
+    {
+      "key": 4,
+      "displayText": "What was Mahesh wearing during the trip to Ooty and Masanakudi?",
+      "answers": [
+        { "key": 0, "displayText": "Green and grey strips", "isAnswer": true },
+        { "key": 1, "displayText": "Blue and grey strips", "isAnswer": false },
+        { "key": 2, "displayText": "Black and grey strips", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 5,
+      "displayText": "What is Jaga's favourite cuisine?",
+      "answers": [
+        { "key": 0, "displayText": "South Indian", "isAnswer": false },
+        { "key": 1, "displayText": "North Indian", "isAnswer": true },
+        { "key": 2, "displayText": "Italian", "isAnswer": false },
+        { "key": 3, "displayText": "Mexican", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 6,
+      "displayText": "What is Vikram's favourite bike?",
+      "answers": [
+        {
+          "key": 0,
+          "displayText": "Desert storm royal enfield",
+          "isAnswer": false
+        },
+        { "key": 1, "displayText": "KTM Duke", "isAnswer": false },
+        { "key": 2, "displayText": "Pulsar", "isAnswer": true }
+      ]
+    },
+    {
+      "key": 7,
+      "displayText": "What was the first movie you, Praveen and Jaga saw together?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 8,
+      "displayText": "Which standard was Vikram studying when you got that first scar near your eye?",
+      "answers": [
+        { "key": 0, "displayText": "5th", "isAnswer": false },
+        { "key": 1, "displayText": "6th", "isAnswer": false },
+        { "key": 2, "displayText": "4th", "isAnswer": true },
+        { "key": 3, "displayText": "3rd", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 9,
+      "displayText": "When was your first phone call with Mano?",
+      "answers": [
+        { "key": 0, "displayText": "Sept 13", "isAnswer": false },
+        { "key": 1, "displayText": "Sept 12", "isAnswer": true },
+        { "key": 2, "displayText": "Sept 10", "isAnswer": false },
+        { "key": 3, "displayText": "Sept 11", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 10,
+      "displayText": "Mano's screen time password?",
+      "answers": [
+        { "key": 0, "displayText": "0422", "isAnswer": false },
+        { "key": 1, "displayText": "0222", "isAnswer": false },
+        { "key": 2, "displayText": "0402", "isAnswer": false },
+        { "key": 3, "displayText": "0419", "isAnswer": true }
+      ]
+    },
+    {
+      "key": 11,
+      "displayText": "What was the target in last Saturday cricket match?",
+      "answers": [
+        { "key": 0, "displayText": "77", "isAnswer": false },
+        { "key": 1, "displayText": "79", "isAnswer": true },
+        { "key": 2, "displayText": "76", "isAnswer": false },
+        { "key": 3, "displayText": "78", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 12,
+      "displayText": "What is Praveen's favourite color?",
+      "answers": [
+        { "key": 0, "displayText": "White", "isAnswer": false },
+        { "key": 1, "displayText": "Black", "isAnswer": true },
+        { "key": 2, "displayText": "Red", "isAnswer": false },
+        { "key": 3, "displayText": "Blue", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 13,
+      "displayText": "You and Tharun were Outstanding student(other meaning) in which teacher's period?",
+      "answers": [
+        { "key": 0, "displayText": "Krishnaveni", "isAnswer": true },
+        { "key": 1, "displayText": "Indrani Kailash", "isAnswer": false },
+        { "key": 2, "displayText": "Sathyabama", "isAnswer": false },
+        { "key": 3, "displayText": "Sudha Sridharan", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 14,
+      "displayText": "Which grade is Yuvan studying?",
+      "answers": [
+        { "key": 0, "displayText": "7th", "isAnswer": false },
+        { "key": 1, "displayText": "5th", "isAnswer": true },
+        { "key": 2, "displayText": "4th", "isAnswer": false },
+        { "key": 3, "displayText": "6th", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 15,
+      "displayText": "Who is Arun's favourite hero?",
+      "answers": [
+        { "key": 0, "displayText": "Ajith", "isAnswer": true },
+        { "key": 1, "displayText": "Vijay", "isAnswer": false },
+        { "key": 2, "displayText": "Dhanush", "isAnswer": false },
+        { "key": 3, "displayText": "Vijay Sethupathi", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 16,
+      "displayText": "Who was the culprit behind the project you got caught without copying?",
+      "answers": [
+        { "key": 0, "displayText": "Vignesh", "isAnswer": false },
+        { "key": 1, "displayText": "Amey", "isAnswer": false },
+        { "key": 2, "displayText": "Panda", "isAnswer": true },
+        { "key": 3, "displayText": "Mukunth", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 17,
+      "displayText": "Jaga is scared of?",
+      "answers": [
+        { "key": 0, "displayText": "Rowdyism", "isAnswer": false },
+        { "key": 1, "displayText": "Rash driving", "isAnswer": true },
+        { "key": 2, "displayText": "Dark", "isAnswer": false },
+        { "key": 3, "displayText": "Ghost", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 18,
+      "displayText": "Is Athiban's pet name Ats named by Vikram?",
+      "answers": [
+        { "key": 0, "displayText": "No", "isAnswer": false },
+        { "key": 1, "displayText": "Yes", "isAnswer": true }
+      ]
+    },
+    {
+      "key": 19,
+      "displayText": "How many girlfriends did Jaga had?",
+      "answers": [
+        { "key": 0, "displayText": "4", "isAnswer": false },
+        { "key": 1, "displayText": "1", "isAnswer": false },
+        { "key": 2, "displayText": "3", "isAnswer": false },
+        { "key": 3, "displayText": "2", "isAnswer": true }
+      ]
+    },
+    {
+      "key": 20,
+      "displayText": "Sundar's favourite series?",
+      "answers": [
+        { "key": 0, "displayText": "Friends", "isAnswer": true },
+        { "key": 1, "displayText": "Justified", "isAnswer": false },
+        { "key": 2, "displayText": "Breaking Bad", "isAnswer": false },
+        { "key": 3, "displayText": "Two and a half men", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 21,
+      "displayText": "What is Praveen's favourite dress style?",
+      "answers": [
+        { "key": 0, "displayText": "Shorts", "isAnswer": true },
+        { "key": 1, "displayText": "Suits", "isAnswer": false },
+        { "key": 2, "displayText": "Jeans", "isAnswer": false },
+        { "key": 3, "displayText": "Jackets", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 22,
+      "displayText": "What is Tharun's favourite food?",
+      "answers": [
+        { "key": 0, "displayText": "Chicken fried rice", "isAnswer": true },
+        { "key": 1, "displayText": "Normal Atthoo", "isAnswer": false },
+        { "key": 2, "displayText": "Kal dosa", "isAnswer": false },
+        { "key": 3, "displayText": "Atthoo Fry", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 23,
+      "displayText": "World's most handsome guy?",
+      "answers": [
+        { "key": 0, "displayText": "Atsey", "isAnswer": false },
+        { "key": 1, "displayText": "All of the above", "isAnswer": false },
+        { "key": 2, "displayText": "Ats", "isAnswer": false },
+        { "key": 3, "displayText": "Athiban", "isAnswer": true }
+      ]
+    },
+    {
+      "key": 24,
+      "displayText": "Amma's favourite book genre?",
+      "answers": [
+        { "key": 0, "displayText": "Biographies", "isAnswer": false },
+        { "key": 1, "displayText": "Mystery", "isAnswer": false },
+        {
+          "key": 2,
+          "displayText": "Historical Fiction",
+          "isAnswer": true
+        },
+        { "key": 3, "displayText": "Short stories", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 25,
+      "displayText": "Which teacher's class your gang got punished for eating from tiffin box?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 26,
+      "displayText": "What was the first movie you and Praveen saw together?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 27,
+      "displayText": "What is Sundar's designation in office?",
+      "answers": [
+        { "key": 0, "displayText": "Software engineer", "isAnswer": false },
+        { "key": 1, "displayText": "Team lead", "isAnswer": false },
+        { "key": 2, "displayText": "IT Analyst", "isAnswer": true },
+        { "key": 3, "displayText": "Senior developer", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 28,
+      "displayText": "What was the first lie you told them - Tharun, Prasth, Lokesh and Saravana?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 29,
+      "displayText": "Your gang Crush name in school?",
+      "answers": [
+        { "key": 0, "displayText": "Anusha", "isAnswer": false },
+        { "key": 1, "displayText": "Sneha", "isAnswer": true },
+        { "key": 2, "displayText": "Poornima", "isAnswer": false },
+        { "key": 3, "displayText": "Harini", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 30,
+      "displayText": "What was Jaga's Chennai cricket team name?",
+      "answers": [
+        { "key": 0, "displayText": "11 masters", "isAnswer": false },
+        { "key": 1, "displayText": "Masters", "isAnswer": false },
+        { "key": 2, "displayText": "Tech masters", "isAnswer": true },
+        { "key": 3, "displayText": "Grand masters", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 31,
+      "displayText": "What is Praveen's favourite movie genre?",
+      "answers": [
+        { "key": 0, "displayText": "Thriller", "isAnswer": false },
+        { "key": 1, "displayText": "Action", "isAnswer": false },
+        { "key": 2, "displayText": "Rom com", "isAnswer": true },
+        { "key": 3, "displayText": "Sci Fi", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 32,
+      "displayText": "Where did Sundar study?",
+      "answers": [
+        {
+          "key": 0,
+          "displayText": "St Peters college of engineering",
+          "isAnswer": true
+        },
+        { "key": 1, "displayText": "SSN", "isAnswer": false },
+        { "key": 2, "displayText": "Vel Tech", "isAnswer": false },
+        { "key": 3, "displayText": "SRM", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 33,
+      "displayText": "Jaga's favourite chocolate?",
+      "answers": [
+        { "key": 0, "displayText": "Ferrero Rocher", "isAnswer": false },
+        { "key": 1, "displayText": "5 star", "isAnswer": false },
+        { "key": 2, "displayText": "Godiva", "isAnswer": true },
+        { "key": 3, "displayText": "Dairy milk", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 34,
+      "displayText": "Thendral DOB?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 35,
+      "displayText": "Which was the game, only you and Deepak played during school days?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 36,
+      "displayText": "Which teacher does Lokesh hate the most in school?",
+      "answers": [
+        { "key": 0, "displayText": "Juliet", "isAnswer": false },
+        { "key": 1, "displayText": "Usha Rajagopal", "isAnswer": true },
+        { "key": 2, "displayText": "Sudha Sridharan", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 37,
+      "displayText": "In which college you and Mahesh lastly played cricket match?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 38,
+      "displayText": "What food you ask Amma to buy from Saravana bhavan during 7th/8th class?",
+      "answers": [
+        { "key": 0, "displayText": "Correct", "isAnswer": true },
+        { "key": 1, "displayText": "Wrong", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 39,
+      "displayText": "Sundar's birthday year?",
+      "answers": [
+        { "key": 0, "displayText": "1990", "isAnswer": false },
+        { "key": 1, "displayText": "1992", "isAnswer": true },
+        { "key": 2, "displayText": "1991", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 40,
+      "displayText": "What is Tharun's favourite Virugambakkam spot?",
+      "answers": [
+        { "key": 0, "displayText": "Subway", "isAnswer": false },
+        { "key": 1, "displayText": "Pani poori bhaiya", "isAnswer": true },
+        { "key": 2, "displayText": "Fast food", "isAnswer": false },
+        { "key": 3, "displayText": "Briyani shop", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 41,
+      "displayText": "The person from whom you stole Stevens Red T-shirt?",
+      "answers": [
+        { "key": 0, "displayText": "Vignesh", "isAnswer": false },
+        { "key": 1, "displayText": "Mohit", "isAnswer": false },
+        { "key": 2, "displayText": "Mukunth", "isAnswer": true },
+        { "key": 3, "displayText": "Amey", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 42,
+      "displayText": "Which place Amma wants to visit?",
+      "answers": [
+        { "key": 0, "displayText": "Shiridi", "isAnswer": true },
+        { "key": 1, "displayText": "Rishikesh", "isAnswer": false },
+        { "key": 2, "displayText": "Somnath", "isAnswer": false },
+        { "key": 3, "displayText": "Kasi", "isAnswer": false }
+      ]
+    },
+    {
+      "key": 43,
+      "displayText": "What would have been the best project if you and Mukunth worked together?",
+      "answers": [
+        { "key": 0, "displayText": "Web programming", "isAnswer": false },
+        {
+          "key": 1,
+          "displayText": "Data structures & Algos",
+          "isAnswer": false
+        },
+        { "key": 2, "displayText": "Web Mining", "isAnswer": true },
+        { "key": 3, "displayText": "Operating Systems", "isAnswer": false }
+      ]
+    }
+  ]
+}
