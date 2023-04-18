@@ -11,20 +11,6 @@
       ]
     },
     {
-      "key": 1,
-      "displayText": "Which maths chapter you taught the most for Mahesh during school?",
-      "answers": [
-        {
-          "key": 0,
-          "displayText": "Arithmetic Progressions",
-          "isAnswer": false
-        },
-        { "key": 1, "displayText": "Coordinate Geometry", "isAnswer": false },
-        { "key": 2, "displayText": "Trigonometry", "isAnswer": true },
-        { "key": 3, "displayText": "Quadratic Equations", "isAnswer": false }
-      ]
-    },
-    {
       "key": 2,
       "displayText": "Which place were you driving with Mukunth during the ‘let me sing a kutty story’ song playing behind?",
       "answers": [
@@ -104,16 +90,6 @@
       ]
     },
     {
-      "key": 10,
-      "displayText": "Mano's screen time password?",
-      "answers": [
-        { "key": 0, "displayText": "0422", "isAnswer": false },
-        { "key": 1, "displayText": "0222", "isAnswer": false },
-        { "key": 2, "displayText": "0402", "isAnswer": false },
-        { "key": 3, "displayText": "0419", "isAnswer": true }
-      ]
-    },
-    {
       "key": 11,
       "displayText": "What was the target in last Saturday cricket match?",
       "answers": [
@@ -124,16 +100,6 @@
       ]
     },
     {
-      "key": 12,
-      "displayText": "What is Praveen's favourite color?",
-      "answers": [
-        { "key": 0, "displayText": "White", "isAnswer": false },
-        { "key": 1, "displayText": "Black", "isAnswer": true },
-        { "key": 2, "displayText": "Red", "isAnswer": false },
-        { "key": 3, "displayText": "Blue", "isAnswer": false }
-      ]
-    },
-    {
       "key": 13,
       "displayText": "You and Tharun were Outstanding student(other meaning) in which teacher's period?",
       "answers": [
@@ -141,16 +107,6 @@
         { "key": 1, "displayText": "Indrani Kailash", "isAnswer": false },
         { "key": 2, "displayText": "Sathyabama", "isAnswer": false },
         { "key": 3, "displayText": "Sudha Sridharan", "isAnswer": false }
-      ]
-    },
-    {
-      "key": 14,
-      "displayText": "Which grade is Yuvan studying?",
-      "answers": [
-        { "key": 0, "displayText": "7th", "isAnswer": false },
-        { "key": 1, "displayText": "5th", "isAnswer": true },
-        { "key": 2, "displayText": "4th", "isAnswer": false },
-        { "key": 3, "displayText": "6th", "isAnswer": false }
       ]
     },
     {
@@ -171,16 +127,6 @@
         { "key": 1, "displayText": "Amey", "isAnswer": false },
         { "key": 2, "displayText": "Panda", "isAnswer": true },
         { "key": 3, "displayText": "Mukunth", "isAnswer": false }
-      ]
-    },
-    {
-      "key": 17,
-      "displayText": "Jaga is scared of?",
-      "answers": [
-        { "key": 0, "displayText": "Rowdyism", "isAnswer": false },
-        { "key": 1, "displayText": "Rash driving", "isAnswer": true },
-        { "key": 2, "displayText": "Dark", "isAnswer": false },
-        { "key": 3, "displayText": "Ghost", "isAnswer": false }
       ]
     },
     {
@@ -219,16 +165,6 @@
         { "key": 1, "displayText": "Suits", "isAnswer": false },
         { "key": 2, "displayText": "Jeans", "isAnswer": false },
         { "key": 3, "displayText": "Jackets", "isAnswer": false }
-      ]
-    },
-    {
-      "key": 22,
-      "displayText": "What is Tharun's favourite food?",
-      "answers": [
-        { "key": 0, "displayText": "Chicken fried rice", "isAnswer": true },
-        { "key": 1, "displayText": "Normal Atthoo", "isAnswer": false },
-        { "key": 2, "displayText": "Kal dosa", "isAnswer": false },
-        { "key": 3, "displayText": "Atthoo Fry", "isAnswer": false }
       ]
     },
     {
@@ -334,24 +270,6 @@
       ]
     },
     {
-      "key": 33,
-      "displayText": "Jaga's favourite chocolate?",
-      "answers": [
-        { "key": 0, "displayText": "Ferrero Rocher", "isAnswer": false },
-        { "key": 1, "displayText": "5 star", "isAnswer": false },
-        { "key": 2, "displayText": "Godiva", "isAnswer": true },
-        { "key": 3, "displayText": "Dairy milk", "isAnswer": false }
-      ]
-    },
-    {
-      "key": 34,
-      "displayText": "Thendral DOB?",
-      "answers": [
-        { "key": 0, "displayText": "Correct", "isAnswer": true },
-        { "key": 1, "displayText": "Wrong", "isAnswer": false }
-      ]
-    },
-    {
       "key": 35,
       "displayText": "Which was the game, only you and Deepak played during school days?",
       "answers": [
@@ -371,14 +289,6 @@
     {
       "key": 37,
       "displayText": "In which college you and Mahesh lastly played cricket match?",
-      "answers": [
-        { "key": 0, "displayText": "Correct", "isAnswer": true },
-        { "key": 1, "displayText": "Wrong", "isAnswer": false }
-      ]
-    },
-    {
-      "key": 38,
-      "displayText": "What food you ask Amma to buy from Saravana bhavan during 7th/8th class?",
       "answers": [
         { "key": 0, "displayText": "Correct", "isAnswer": true },
         { "key": 1, "displayText": "Wrong", "isAnswer": false }
