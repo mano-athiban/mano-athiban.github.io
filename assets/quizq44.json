@@ -172,9 +172,9 @@
       "displayText": "World's most handsome guy?",
       "answers": [
         { "key": 0, "displayText": "Atsey", "isAnswer": false },
-        { "key": 1, "displayText": "All of the above", "isAnswer": false },
+        { "key": 1, "displayText": "All of the above", "isAnswer": true },
         { "key": 2, "displayText": "Ats", "isAnswer": false },
-        { "key": 3, "displayText": "Athiban", "isAnswer": true }
+        { "key": 3, "displayText": "Athiban", "isAnswer": false }
       ]
     },
     {
